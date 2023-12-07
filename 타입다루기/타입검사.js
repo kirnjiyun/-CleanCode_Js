@@ -15,8 +15,8 @@ typeof MyClass;
 //많은 주의가 필요하다.
 
 const p = {
-  name: "poco",
-  age: 99,
+  name: "wldbdls",
+  age: 98,
 };
 function Person(name, age) {
   this.name = name;

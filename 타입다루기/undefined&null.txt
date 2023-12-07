@@ -1,0 +1,5 @@
+undefined, null
+값이 없거나 정의되지 않은 것
+특히나 널은 명시적으로 그걸 표현한 것이다.
+undefined => NaN , type undefined
+null =>0, type Object
