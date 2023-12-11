@@ -11,6 +11,6 @@ console.log("wow");
 console.log("wow");
 console.log("wow");
 console.log("123127846129083");
-console.log("조병민님대박이네요?]");
+console.log("조병민님대박이네요?");
 console.log("왜 이걸 이제 알려주세요?");
 console.log("wowowowowowowowowwo");
