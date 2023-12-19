@@ -36,9 +36,10 @@ function isValidName(name) {
     );
 }
 
-function notValidName = (value) =>{
-    if(!isArrayItemLengthRange(names,CAR_NAME_LEN.MIN,CAR_NAME_LEN.MAX)){
-        alert (`자동차 이름은 ${CAR_NAME_LEN.MIN}자 에서 ${CAR_NAME_LEN.MAX}까지 입력할 수 있습니다.`)
+function notValidNam(value) {
+    if (!isArrayItemLengthRange(names, CAR_NAME_LEN.MIN, CAR_NAME_LEN.MAX)) {
+        alert(
+            `자동차 이름은 ${CAR_NAME_LEN.MIN}자 에서 ${CAR_NAME_LEN.MAX}까지 입력할 수 있습니다.`
+        );
     }
-    
 }
